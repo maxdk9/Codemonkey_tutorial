@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\maxdk9\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\maxdk9\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_codemonkey_main.925093554.00" t="ExcludeRecursive" />
+    <e p="D:\git_repo\Codemonkey_tutorial\codemonkey_main" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_" t="Include">
+          <e p="Base" t="Include">
+            <e p="BaseScripts" t="Include">
+              <e p="CharacterAimHandler.cs" t="Include" />
+              <e p="CharacterPositionMovementHandler.cs" t="Include" />
+              <e p="CharacterSwordHandler.cs" t="Include" />
+              <e p="CharacterWaypointsHandler.cs" t="Include" />
+              <e p="Enemy.cs" t="Include" />
+              <e p="Enemy_Base.cs" t="Include" />
+              <e p="EnemyHandler.cs" t="Include" />
+              <e p="FlyingBody.cs" t="Include" />
+              <e p="GameHandler_Setup.cs" t="Include" />
+              <e p="HealthSystem.cs" t="Include" />
+              <e p="Player_Base.cs" t="Include" />
+              <e p="PlayerPositionMovement.cs" t="Include" />
+              <e p="PlayerPunch.cs" t="Include" />
+              <e p="PlayerSword.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Stuff" t="Include">
+            <e p="CodeMonkey" t="Include">
+              <e p="Assets.cs" t="Include" />
+              <e p="CMDebug.cs" t="Include" />
+              <e p="MonoBehaviours" t="Include">
+                <e p="CameraFollow.cs" t="Include" />
+                <e p="CameraFollowSetup.cs" t="Include" />
+                <e p="ComponentActions.cs" t="Include" />
+                <e p="PositionRendererSorter.cs" t="Include" />
+              </e>
+              <e p="README.txt" t="Include" />
+              <e p="Utils" t="Include">
+                <e p="Button_Sprite.cs" t="Include" />
+                <e p="Button_UI.cs" t="Include" />
+                <e p="FunctionPeriodic.cs" t="Include" />
+                <e p="FunctionTimer.cs" t="Include" />
+                <e p="FunctionUpdater.cs" t="Include" />
+                <e p="UI_Bar.cs" t="Include" />
+                <e p="UI_BarMultiple.cs" t="Include" />
+                <e p="UI_Sprite.cs" t="Include" />
+                <e p="UI_TextComplex.cs" t="Include" />
+                <e p="UtilsClass.cs" t="Include" />
+                <e p="World_Bar.cs" t="Include" />
+                <e p="World_Mesh.cs" t="Include" />
+                <e p="World_Sprite.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GridPathfinding" t="Include">
+              <e p="BinaryTree.cs" t="Include" />
+              <e p="GridPathfinding.cs" t="Include" />
+              <e p="LastMoveTo.cs" t="Include" />
+              <e p="MapPos.cs" t="Include" />
+              <e p="PathNode.cs" t="Include" />
+              <e p="PathQueue.cs" t="Include" />
+              <e p="PathRoute.cs" t="Include" />
+              <e p="UnitMovement.cs" t="Include" />
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="AnimatedWalker.cs" t="Include" />
+              <e p="Blood_Handler.cs" t="Include" />
+              <e p="Dirt_Handler.cs" t="Include" />
+              <e p="FullscreenPlayMode.cs" t="Include" />
+              <e p="GameAssets.cs" t="Include" />
+              <e p="Generic_Mesh_Script.cs" t="Include" />
+              <e p="MyScripts" t="Include">
+                <e p="MyPointOfView.cs" t="Include" />
+              </e>
+              <e p="ScreenshotHandler.cs" t="Include" />
+              <e p="SetSpriteSorting.cs" t="Include" />
+              <e p="Shoot_Flash.cs" t="Include" />
+              <e p="Sound_Manager.cs" t="Include" />
+              <e p="SpriteAnimator.cs" t="Include" />
+              <e p="UVVectors.cs" t="Include" />
+              <e p="V_UnitSkeleton_Composite_Walker.cs" t="Include" />
+              <e p="V_UnitSkeleton_Composite_Weapon.cs" t="Include" />
+              <e p="WeaponTracer.cs" t="Include" />
+            </e>
+            <e p="V_Animation" t="Include">
+              <e p="BodyPart.cs" t="Include" />
+              <e p="CLZF2.cs" t="Include" />
+              <e p="SaveSystem.cs" t="Include" />
+              <e p="UnitAnim.cs" t="Include" />
+              <e p="UnitAnimType.cs" t="Include" />
+              <e p="UVType.cs" t="Include" />
+              <e p="V_Animation.asmdef" t="Include" />
+              <e p="V_Animation.cs" t="Include" />
+              <e p="V_Skeleton_Anim.cs" t="Include" />
+              <e p="V_Skeleton_Frame.cs" t="Include" />
+              <e p="V_Skeleton_Updater.cs" t="Include" />
+              <e p="V_UnitAnimation.cs" t="Include" />
+              <e p="V_UnitSkeleton.cs" t="Include" />
+            </e>
+            <e p="V_ObjectSystem" t="Include">
+              <e p="V_IActiveInactive.cs" t="Include" />
+              <e p="V_IDestroySelf.cs" t="Include" />
+              <e p="V_IHasWorldPosition.cs" t="Include" />
+              <e p="V_IObjectActiveLogic.cs" t="Include" />
+              <e p="V_IObjectTransform.cs" t="Include" />
+              <e p="V_IObjectTransformBody.cs" t="Include" />
+              <e p="V_Main.cs" t="Include" />
+              <e p="V_Object.cs" t="Include" />
+              <e p="V_ObjectLogic_SkeletonUpdater.cs" t="Include" />
+              <e p="V_ObjectTransform.cs" t="Include" />
+              <e p="V_ObjectTransform_LateUpdate.cs" t="Include" />
+              <e p="V_ObjectTransformBody.cs" t="Include" />
+              <e p="V_TimeScaleManager.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="FieldOfView" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="FieldOfView.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="codemonkey_main.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="V_Animation.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>
